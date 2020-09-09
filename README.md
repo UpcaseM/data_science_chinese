@@ -5,7 +5,7 @@
 ## 数据科学工具常用操作
 
 [**如何使用命令行操作Anaconda**](https://zhuanlan.zhihu.com/p/195858834)
-[**学习Python你不知道的事**]()
+[**学习Python你不知道的事**](/notebook/python_basic/学习python你不知道的事_基础篇.ipynb)
 
 
 
