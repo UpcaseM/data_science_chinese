@@ -4,10 +4,10 @@
 
 ## 数据科学工具常用操作
 
-[**如何使用命令行操作Anaconda**](https://zhuanlan.zhihu.com/p/195858834)
-[**学习Python你不知道的事_基础篇**](/notebook/python_basic/学习python你不知道的事_基础篇.ipynb)
-[**学习Python你不知道的事_进阶篇**](/notebook/python_basic/学习python你不知道的事_进阶.ipynb)
-
+* [**如何使用命令行操作Anaconda**](https://zhuanlan.zhihu.com/p/195858834)
+* [**学习Python你不知道的事_基础篇**](/notebook/python_basic/学习python你不知道的事_基础篇.ipynb)
+* [**学习Python你不知道的事_进阶篇**](/notebook/python_basic/学习python你不知道的事_进阶.ipynb)
+* [**Python数据分析实例－药品销售分析**](/notebook/data_analysis_basic.ipynb)
 
 
 # 作者
