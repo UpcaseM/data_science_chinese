@@ -12,6 +12,7 @@
 
 * [**Python数据分析实例－药品销售分析**](/notebook/data_analysis_basic.ipynb)
 * [**Python数据分析实例－股票数据可视化**](/notebook/data_analysis_visualization.ipynb)
+* [**Python数据分析实例－统计学在解决奶茶店问题中的应用**](/notebook/data_analysis_statics.ipynb)
 
 ## 机器学习实例
 
